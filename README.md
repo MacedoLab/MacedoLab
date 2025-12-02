@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Felipe+Macedo!+👋;Bem-vindo+ao+MacedoLab;Explorando+Código+%26+Design;Estudante+de+Ciência+da+Computação" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=230&section=header&text=MacedoLab&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Felipe%20Macedo%20Lima&descAlignY=60&descAlign=50"/>
 
 <br/>
 
