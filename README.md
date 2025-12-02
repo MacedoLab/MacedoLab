@@ -20,14 +20,6 @@
 
 <br/>
 
-<h3>📊 GitHub Stats</h3>
-<div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MacedoLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacedoLab&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br/>
-
 <h3>📫 Conecte-se comigo</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-m-l/" target="_blank">
