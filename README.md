@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
- De <b>Gestão Financeira</b> para o mundo da <b>Tecnologia</b>.<br>
+ Com propósito de unir a <b>Gestão Financeira</b> com o mundo da <b>Tecnologia</b>.<br>
  Este é o meu laboratório pessoal onde documento minha jornada de aprendizado em Ciência da Computação,<br> com foco na intersecção entre desenvolvimento e design interfaces.
 </p>
 
