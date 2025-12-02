@@ -7,8 +7,8 @@
 <br/>
 
 <p align="center">
- Com propósito de unir a <b>Gestão Financeira</b> com o mundo da <b>Tecnologia</b>.<br>
- Este é o meu laboratório pessoal onde documento minha jornada de aprendizado em Ciência da Computação,<br> com foco na intersecção entre desenvolvimento e design interfaces.
+ Trazendo a bagagem analítica da <b>Gestão Financeira</b> para o desenvolvimento de soluções em <b>Tecnologia</b>.<br>
+ Este é o meu laboratório pessoal onde documento minha jornada de aprendizado em Ciência da Computação,<br> com foco na intersecção entre desenvolvimento e design de interfaces.
 </p>
 
 <br/>
