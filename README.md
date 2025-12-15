@@ -5,8 +5,8 @@
 <br/>
 
 <p align="center">
- Trazendo a bagagem analítica da <b>Gestão Financeira</b> para o desenvolvimento de soluções em <b>Tecnologia</b>.<br>
- Este é o meu laboratório pessoal onde documento minha jornada de aprendizado em Ciência da Computação,<br> com foco na intersecção entre desenvolvimento e design de interfaces.
+  Trazendo a bagagem analítica da <b>Gestão Financeira</b> para o desenvolvimento de soluções em <b>Tecnologia</b>.<br>
+  Este é o meu laboratório pessoal onde documento minha jornada de aprendizado em Ciência da Computação,<br> com foco na intersecção entre desenvolvimento e design de interfaces.
 </p>
 
 <br/>
@@ -17,6 +17,13 @@
     <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,figma&theme=dark" />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacedoLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacedoLab&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <br/>
 
