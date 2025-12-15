@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=230&section=header&text=MacedoLab&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Felipe%20Macedo%20Lima&descAlignY=60&descAlign=50&font=Fira%20Code&v=update1"/>
+<img src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=230&section=header&text=MacedoLab&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Felipe%20Macedo%20Lima&descAlignY=60&descAlign=50&font=Fira%20Code&v=update1&fontColor=ffffff"/>
 
 <br/>
 
