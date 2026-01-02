@@ -4,8 +4,8 @@
 
 <table border="0" width="100%">
     <tr>
-        <td width="60%" align="left">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&multiline=false&width=500&height=50&lines=Finance+Specialist;CS+Student+🚀;Aspiring+Developer" alt="Typing SVG" />
+    <td width="60%" align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&multiline=false&width=500&height=50&lines=Finance+Specialist;CS+Student+🚀;Aspiring+Developer" alt="Typing SVG" />
         </td>
         <td width="40%" align="right">
             <a href="https://www.linkedin.com/in/felipe-m-l">
