@@ -2,24 +2,22 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=220&section=header&text=👋%20Hey,%20I'm%20Felipe!&fontSize=50&animation=fadeIn&fontAlignY=40&font=Fira%20Code&fontColor=ffffff" width="100%"/>
 </div>
 
-<table border="0" width="100%">
-    <tr>
-    <td width="60%" align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&multiline=false&width=500&height=50&lines=Finance+Specialist;CS+Student+🚀;Aspiring+Developer" alt="Typing SVG" />
-        </td>
-        <td width="40%" align="right">
-            <a href="https://www.linkedin.com/in/felipe-m-l">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-            </a>
-            <a href="mailto:contato.macedolab@gmail.com">
-                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-            </a>
-            <a href="https://instagram.com/FelipeMacedoLab" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-            </a>
-        </td>
-    </tr>
-</table>
+<div style="display: inline_block">
+  
+  <a href="https://instagram.com/FelipeMacedoLab" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:contato.macedolab@gmail.com">
+    <img align="right" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-m-l">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&multiline=false&width=450&height=50&lines=Finance+Specialist;CS+Student;Aspiring+Developer" alt="Typing SVG" />
+
+</div>
+<br/><br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... 
 Sou um **Gestor Financeiro** em transição para **Ciência da Computação**. 
